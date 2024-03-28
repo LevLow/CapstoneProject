@@ -6,3 +6,14 @@
 ### Clean Data
 ### Develop and Test Model
 ### Analyze Data
+###
+###
+## Set Up venv
+### Run the command python3 -m venv venv
+### Activate the virtual environment
+
+## Project Libraries
+### Pandas
+### Numpy
+### Matplotlib
+### Seaborn
