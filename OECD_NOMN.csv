@@ -1,0 +1,451 @@
+Country,Cancer site,Year,Cancer Rate
+Slovak Republic,Malignant neoplasms of female breast,2002,48.0
+Slovak Republic,Malignant neoplasms of female breast,2008,53.4
+Slovak Republic,Malignant neoplasms of female breast,2012,57.5
+Sweden,Malignant neoplasms of female breast,2002,87.8
+Sweden,Malignant neoplasms of female breast,2008,82.7
+Sweden,Malignant neoplasms of female breast,2012,80.4
+France,"Malignant neoplasms of colon, rectum and anus",2002,33.4
+France,"Malignant neoplasms of colon, rectum and anus",2008,29.4
+France,"Malignant neoplasms of colon, rectum and anus",2012,30.0
+United States,Malignant neoplasms of female breast,2002,101.1
+United States,Malignant neoplasms of female breast,2008,76.0
+United States,Malignant neoplasms of female breast,2012,92.9
+Slovak Republic,Malignant neoplasms of cervix uteri,2002,18.5
+Slovak Republic,Malignant neoplasms of cervix uteri,2008,15.8
+Slovak Republic,Malignant neoplasms of cervix uteri,2012,16.1
+Luxembourg,Malignant neoplasms of cervix uteri,2002,8.7
+Luxembourg,Malignant neoplasms of cervix uteri,2008,6.3
+Luxembourg,Malignant neoplasms of cervix uteri,2012,4.9
+Slovak Republic,Malignant neoplasms of prostate,2002,30.5
+Slovak Republic,Malignant neoplasms of prostate,2008,39.8
+Slovak Republic,Malignant neoplasms of prostate,2012,50.0
+Ireland,Malignant neoplasms of cervix uteri,2002,7.2
+Ireland,Malignant neoplasms of cervix uteri,2008,10.9
+Ireland,Malignant neoplasms of cervix uteri,2012,13.6
+Türkiye,"Malignant neoplasms of colon, rectum and anus",2002,8.8
+Türkiye,"Malignant neoplasms of colon, rectum and anus",2008,11.0
+Türkiye,"Malignant neoplasms of colon, rectum and anus",2012,16.6
+Belgium,Malignant neoplasms of prostate,2002,74.2
+Belgium,Malignant neoplasms of prostate,2008,102.3
+Belgium,Malignant neoplasms of prostate,2012,90.9
+Ireland,Malignant neoplasms of prostate,2002,56.3
+Ireland,Malignant neoplasms of prostate,2008,126.3
+Ireland,Malignant neoplasms of prostate,2012,114.2
+Belgium,Malignant neoplasms of female breast,2002,92.0
+Belgium,Malignant neoplasms of female breast,2008,109.4
+Belgium,Malignant neoplasms of female breast,2012,111.9
+Luxembourg,Malignant neoplasms of prostate,2002,57.2
+Luxembourg,Malignant neoplasms of prostate,2008,74.8
+Luxembourg,Malignant neoplasms of prostate,2012,78.8
+Austria,"Malignant neoplasms of trachea, bronchus, lung",2002,28.5
+Austria,"Malignant neoplasms of trachea, bronchus, lung",2008,25.1
+Austria,"Malignant neoplasms of trachea, bronchus, lung",2012,27.5
+Denmark,"Malignant neoplasms of trachea, bronchus, lung",2002,37.6
+Denmark,"Malignant neoplasms of trachea, bronchus, lung",2008,39.3
+Denmark,"Malignant neoplasms of trachea, bronchus, lung",2012,39.2
+New Zealand,Malignant neoplasms of prostate,2002,100.9
+New Zealand,Malignant neoplasms of prostate,2008,99.7
+New Zealand,Malignant neoplasms of prostate,2012,92.2
+Japan,Malignant neoplasms of prostate,2002,12.6
+Japan,Malignant neoplasms of prostate,2008,22.7
+Japan,Malignant neoplasms of prostate,2012,30.4
+Netherlands,"Malignant neoplasms of trachea, bronchus, lung",2002,38.8
+Netherlands,"Malignant neoplasms of trachea, bronchus, lung",2008,35.0
+Netherlands,"Malignant neoplasms of trachea, bronchus, lung",2012,37.2
+Germany,"Malignant neoplasms of trachea, bronchus, lung",2002,29.7
+Germany,"Malignant neoplasms of trachea, bronchus, lung",2008,28.1
+Germany,"Malignant neoplasms of trachea, bronchus, lung",2012,27.5
+New Zealand,Malignant neoplasms of cervix uteri,2002,10.0
+New Zealand,Malignant neoplasms of cervix uteri,2008,5.5
+New Zealand,Malignant neoplasms of cervix uteri,2012,5.3
+Norway,Malignant neoplasms of cervix uteri,2002,10.4
+Norway,Malignant neoplasms of cervix uteri,2008,9.3
+Norway,Malignant neoplasms of cervix uteri,2012,9.8
+Hungary,"Malignant neoplasms of colon, rectum and anus",2002,45.2
+Hungary,"Malignant neoplasms of colon, rectum and anus",2008,42.6
+Hungary,"Malignant neoplasms of colon, rectum and anus",2012,42.3
+Norway,Malignant neoplasms of prostate,2002,81.8
+Norway,Malignant neoplasms of prostate,2008,115.6
+Norway,Malignant neoplasms of prostate,2012,129.7
+Sweden,"Malignant neoplasms of trachea, bronchus, lung",2002,17.8
+Sweden,"Malignant neoplasms of trachea, bronchus, lung",2008,18.5
+Sweden,"Malignant neoplasms of trachea, bronchus, lung",2012,19.1
+Greece,Malignant neoplasms of female breast,2002,51.6
+Greece,Malignant neoplasms of female breast,2008,44.9
+Greece,Malignant neoplasms of female breast,2012,43.9
+New Zealand,Malignant neoplasms of female breast,2002,91.9
+New Zealand,Malignant neoplasms of female breast,2008,89.4
+New Zealand,Malignant neoplasms of female breast,2012,85.0
+Japan,Malignant neoplasms of cervix uteri,2002,8.0
+Japan,Malignant neoplasms of cervix uteri,2008,9.8
+Japan,Malignant neoplasms of cervix uteri,2012,10.9
+United States,"Malignant neoplasms of trachea, bronchus, lung",2002,49.0
+United States,"Malignant neoplasms of trachea, bronchus, lung",2008,42.1
+United States,"Malignant neoplasms of trachea, bronchus, lung",2012,38.4
+Canada,Malignant neoplasms of prostate,2002,78.2
+Canada,Malignant neoplasms of prostate,2008,101.5
+Canada,Malignant neoplasms of prostate,2012,88.9
+Italy,"Malignant neoplasms of colon, rectum and anus",2002,33.0
+Italy,"Malignant neoplasms of colon, rectum and anus",2008,36.5
+Italy,"Malignant neoplasms of colon, rectum and anus",2012,33.9
+Belgium,Malignant neoplasms of cervix uteri,2002,9.4
+Belgium,Malignant neoplasms of cervix uteri,2008,9.4
+Belgium,Malignant neoplasms of cervix uteri,2012,8.6
+Portugal,"Malignant neoplasms of trachea, bronchus, lung",2002,20.1
+Portugal,"Malignant neoplasms of trachea, bronchus, lung",2008,16.4
+Portugal,"Malignant neoplasms of trachea, bronchus, lung",2012,20.2
+Canada,"Malignant neoplasms of colon, rectum and anus",2002,36.4
+Canada,"Malignant neoplasms of colon, rectum and anus",2008,38.1
+Canada,"Malignant neoplasms of colon, rectum and anus",2012,35.2
+France,"Malignant neoplasms of trachea, bronchus, lung",2002,30.7
+France,"Malignant neoplasms of trachea, bronchus, lung",2008,30.0
+France,"Malignant neoplasms of trachea, bronchus, lung",2012,35.0
+Finland,"Malignant neoplasms of colon, rectum and anus",2002,23.3
+Finland,"Malignant neoplasms of colon, rectum and anus",2008,23.2
+Finland,"Malignant neoplasms of colon, rectum and anus",2012,23.5
+United Kingdom,Malignant neoplasms of prostate,2002,52.2
+United Kingdom,Malignant neoplasms of prostate,2008,79.7
+United Kingdom,Malignant neoplasms of prostate,2012,73.2
+Portugal,Malignant neoplasms of cervix uteri,2002,13.5
+Portugal,Malignant neoplasms of cervix uteri,2008,12.2
+Portugal,Malignant neoplasms of cervix uteri,2012,9.0
+Portugal,"Malignant neoplasms of colon, rectum and anus",2002,28.6
+Portugal,"Malignant neoplasms of colon, rectum and anus",2008,31.4
+Portugal,"Malignant neoplasms of colon, rectum and anus",2012,31.7
+United Kingdom,"Malignant neoplasms of colon, rectum and anus",2002,32.9
+United Kingdom,"Malignant neoplasms of colon, rectum and anus",2008,29.3
+United Kingdom,"Malignant neoplasms of colon, rectum and anus",2012,30.2
+Portugal,Malignant neoplasms of prostate,2002,46.8
+Portugal,Malignant neoplasms of prostate,2008,50.1
+Portugal,Malignant neoplasms of prostate,2012,63.6
+Italy,"Malignant neoplasms of trachea, bronchus, lung",2002,34.4
+Italy,"Malignant neoplasms of trachea, bronchus, lung",2008,26.7
+Italy,"Malignant neoplasms of trachea, bronchus, lung",2012,24.5
+Japan,"Malignant neoplasms of colon, rectum and anus",2002,37.9
+Japan,"Malignant neoplasms of colon, rectum and anus",2008,31.5
+Japan,"Malignant neoplasms of colon, rectum and anus",2012,32.2
+Norway,"Malignant neoplasms of trachea, bronchus, lung",2002,27.6
+Norway,"Malignant neoplasms of trachea, bronchus, lung",2008,30.1
+Norway,"Malignant neoplasms of trachea, bronchus, lung",2012,30.0
+Germany,Malignant neoplasms of cervix uteri,2002,10.8
+Germany,Malignant neoplasms of cervix uteri,2008,6.9
+Germany,Malignant neoplasms of cervix uteri,2012,8.2
+Greece,Malignant neoplasms of cervix uteri,2002,7.7
+Greece,Malignant neoplasms of cervix uteri,2008,3.8
+Greece,Malignant neoplasms of cervix uteri,2012,5.2
+United Kingdom,Malignant neoplasms of cervix uteri,2002,8.3
+United Kingdom,Malignant neoplasms of cervix uteri,2008,7.2
+United Kingdom,Malignant neoplasms of cervix uteri,2012,7.1
+Korea,Malignant neoplasms of prostate,2002,7.6
+Korea,Malignant neoplasms of prostate,2008,22.4
+Korea,Malignant neoplasms of prostate,2012,30.3
+Canada,Malignant neoplasms of cervix uteri,2002,7.7
+Canada,Malignant neoplasms of cervix uteri,2008,6.6
+Canada,Malignant neoplasms of cervix uteri,2012,6.3
+Germany,Malignant neoplasms of prostate,2002,60.5
+Germany,Malignant neoplasms of prostate,2008,82.7
+Germany,Malignant neoplasms of prostate,2012,77.3
+Norway,"Malignant neoplasms of colon, rectum and anus",2002,40.3
+Norway,"Malignant neoplasms of colon, rectum and anus",2008,37.8
+Norway,"Malignant neoplasms of colon, rectum and anus",2012,38.9
+Denmark,Malignant neoplasms of female breast,2002,88.7
+Denmark,Malignant neoplasms of female breast,2008,89.1
+Denmark,Malignant neoplasms of female breast,2012,105.0
+Korea,Malignant neoplasms of cervix uteri,2002,17.9
+Korea,Malignant neoplasms of cervix uteri,2008,10.8
+Korea,Malignant neoplasms of cervix uteri,2012,9.5
+Poland,"Malignant neoplasms of trachea, bronchus, lung",2002,48.3
+Poland,"Malignant neoplasms of trachea, bronchus, lung",2008,40.5
+Poland,"Malignant neoplasms of trachea, bronchus, lung",2012,38.0
+Greece,Malignant neoplasms of prostate,2002,26.2
+Greece,Malignant neoplasms of prostate,2008,17.7
+Greece,Malignant neoplasms of prostate,2012,20.2
+Korea,"Malignant neoplasms of colon, rectum and anus",2002,20.3
+Korea,"Malignant neoplasms of colon, rectum and anus",2008,35.2
+Korea,"Malignant neoplasms of colon, rectum and anus",2012,45.0
+Belgium,"Malignant neoplasms of trachea, bronchus, lung",2002,43.8
+Belgium,"Malignant neoplasms of trachea, bronchus, lung",2008,35.3
+Belgium,"Malignant neoplasms of trachea, bronchus, lung",2012,36.8
+Luxembourg,Malignant neoplasms of female breast,2002,82.5
+Luxembourg,Malignant neoplasms of female breast,2008,82.3
+Luxembourg,Malignant neoplasms of female breast,2012,89.1
+Poland,"Malignant neoplasms of colon, rectum and anus",2002,27.7
+Poland,"Malignant neoplasms of colon, rectum and anus",2008,23.9
+Poland,"Malignant neoplasms of colon, rectum and anus",2012,27.0
+Germany,"Malignant neoplasms of colon, rectum and anus",2002,39.3
+Germany,"Malignant neoplasms of colon, rectum and anus",2008,35.5
+Germany,"Malignant neoplasms of colon, rectum and anus",2012,30.9
+Japan,"Malignant neoplasms of trachea, bronchus, lung",2002,25.2
+Japan,"Malignant neoplasms of trachea, bronchus, lung",2008,24.6
+Japan,"Malignant neoplasms of trachea, bronchus, lung",2012,24.6
+Mexico,Malignant neoplasms of female breast,2002,26.4
+Mexico,Malignant neoplasms of female breast,2008,27.2
+Mexico,Malignant neoplasms of female breast,2012,35.4
+Spain,Malignant neoplasms of female breast,2002,50.9
+Spain,Malignant neoplasms of female breast,2008,61.0
+Spain,Malignant neoplasms of female breast,2012,67.3
+United States,Malignant neoplasms of prostate,2002,124.8
+United States,Malignant neoplasms of prostate,2008,83.8
+United States,Malignant neoplasms of prostate,2012,98.2
+Türkiye,"Malignant neoplasms of trachea, bronchus, lung",2002,26.5
+Türkiye,"Malignant neoplasms of trachea, bronchus, lung",2008,26.0
+Türkiye,"Malignant neoplasms of trachea, bronchus, lung",2012,34.7
+Iceland,Malignant neoplasms of female breast,2002,90.0
+Iceland,Malignant neoplasms of female breast,2008,86.2
+Iceland,Malignant neoplasms of female breast,2012,96.3
+Germany,Malignant neoplasms of female breast,2002,79.8
+Germany,Malignant neoplasms of female breast,2008,81.8
+Germany,Malignant neoplasms of female breast,2012,91.6
+United States,Malignant neoplasms of cervix uteri,2002,7.7
+United States,Malignant neoplasms of cervix uteri,2008,5.7
+United States,Malignant neoplasms of cervix uteri,2012,6.6
+Türkiye,Malignant neoplasms of cervix uteri,2002,4.5
+Türkiye,Malignant neoplasms of cervix uteri,2008,4.2
+Türkiye,Malignant neoplasms of cervix uteri,2012,4.3
+Ireland,"Malignant neoplasms of colon, rectum and anus",2002,35.1
+Ireland,"Malignant neoplasms of colon, rectum and anus",2008,36.1
+Ireland,"Malignant neoplasms of colon, rectum and anus",2012,34.9
+Slovak Republic,"Malignant neoplasms of colon, rectum and anus",2002,41.0
+Slovak Republic,"Malignant neoplasms of colon, rectum and anus",2008,42.1
+Slovak Republic,"Malignant neoplasms of colon, rectum and anus",2012,42.7
+Mexico,"Malignant neoplasms of trachea, bronchus, lung",2002,11.9
+Mexico,"Malignant neoplasms of trachea, bronchus, lung",2008,9.4
+Mexico,"Malignant neoplasms of trachea, bronchus, lung",2012,7.5
+Luxembourg,"Malignant neoplasms of colon, rectum and anus",2002,37.2
+Luxembourg,"Malignant neoplasms of colon, rectum and anus",2008,32.9
+Luxembourg,"Malignant neoplasms of colon, rectum and anus",2012,31.5
+Czechia,Malignant neoplasms of female breast,2002,58.4
+Czechia,Malignant neoplasms of female breast,2008,67.7
+Czechia,Malignant neoplasms of female breast,2012,70.3
+Poland,Malignant neoplasms of cervix uteri,2002,18.4
+Poland,Malignant neoplasms of cervix uteri,2008,12.3
+Poland,Malignant neoplasms of cervix uteri,2012,12.2
+United States,"Malignant neoplasms of colon, rectum and anus",2002,38.9
+United States,"Malignant neoplasms of colon, rectum and anus",2008,29.2
+United States,"Malignant neoplasms of colon, rectum and anus",2012,25.0
+Finland,"Malignant neoplasms of trachea, bronchus, lung",2002,21.8
+Finland,"Malignant neoplasms of trachea, bronchus, lung",2008,19.1
+Finland,"Malignant neoplasms of trachea, bronchus, lung",2012,20.1
+Canada,"Malignant neoplasms of trachea, bronchus, lung",2002,43.7
+Canada,"Malignant neoplasms of trachea, bronchus, lung",2008,35.9
+Canada,"Malignant neoplasms of trachea, bronchus, lung",2012,37.9
+Czechia,Malignant neoplasms of cervix uteri,2002,16.2
+Czechia,Malignant neoplasms of cervix uteri,2008,13.8
+Czechia,Malignant neoplasms of cervix uteri,2012,14.1
+Hungary,Malignant neoplasms of female breast,2002,63.0
+Hungary,Malignant neoplasms of female breast,2008,57.9
+Hungary,Malignant neoplasms of female breast,2012,54.5
+Türkiye,Malignant neoplasms of female breast,2002,22.0
+Türkiye,Malignant neoplasms of female breast,2008,28.3
+Türkiye,Malignant neoplasms of female breast,2012,39.1
+Spain,Malignant neoplasms of prostate,2002,35.9
+Spain,Malignant neoplasms of prostate,2008,57.2
+Spain,Malignant neoplasms of prostate,2012,65.2
+Belgium,"Malignant neoplasms of colon, rectum and anus",2002,31.9
+Belgium,"Malignant neoplasms of colon, rectum and anus",2008,35.5
+Belgium,"Malignant neoplasms of colon, rectum and anus",2012,36.7
+France,Malignant neoplasms of prostate,2002,59.3
+France,Malignant neoplasms of prostate,2008,118.3
+France,Malignant neoplasms of prostate,2012,98.0
+Italy,Malignant neoplasms of cervix uteri,2002,8.1
+Italy,Malignant neoplasms of cervix uteri,2008,6.7
+Italy,Malignant neoplasms of cervix uteri,2012,6.7
+Italy,Malignant neoplasms of prostate,2002,40.5
+Italy,Malignant neoplasms of prostate,2008,58.4
+Italy,Malignant neoplasms of prostate,2012,67.6
+Australia,Malignant neoplasms of female breast,2002,83.2
+Australia,Malignant neoplasms of female breast,2008,84.8
+Australia,Malignant neoplasms of female breast,2012,86.0
+Poland,Malignant neoplasms of prostate,2002,24.1
+Poland,Malignant neoplasms of prostate,2008,44.3
+Poland,Malignant neoplasms of prostate,2012,35.9
+Czechia,Malignant neoplasms of prostate,2002,38.1
+Czechia,Malignant neoplasms of prostate,2008,63.0
+Czechia,Malignant neoplasms of prostate,2012,72.2
+Switzerland,"Malignant neoplasms of colon, rectum and anus",2002,34.0
+Switzerland,"Malignant neoplasms of colon, rectum and anus",2008,25.9
+Switzerland,"Malignant neoplasms of colon, rectum and anus",2012,29.4
+Greece,"Malignant neoplasms of trachea, bronchus, lung",2002,33.4
+Greece,"Malignant neoplasms of trachea, bronchus, lung",2008,29.1
+Greece,"Malignant neoplasms of trachea, bronchus, lung",2012,28.5
+Netherlands,Malignant neoplasms of female breast,2002,86.7
+Netherlands,Malignant neoplasms of female breast,2008,96.8
+Netherlands,Malignant neoplasms of female breast,2012,99.0
+Korea,"Malignant neoplasms of trachea, bronchus, lung",2002,33.1
+Korea,"Malignant neoplasms of trachea, bronchus, lung",2008,27.6
+Korea,"Malignant neoplasms of trachea, bronchus, lung",2012,28.7
+Australia,"Malignant neoplasms of trachea, bronchus, lung",2002,28.2
+Australia,"Malignant neoplasms of trachea, bronchus, lung",2008,25.6
+Australia,"Malignant neoplasms of trachea, bronchus, lung",2012,27.0
+France,Malignant neoplasms of cervix uteri,2002,9.8
+France,Malignant neoplasms of cervix uteri,2008,7.1
+France,Malignant neoplasms of cervix uteri,2012,6.8
+Greece,"Malignant neoplasms of colon, rectum and anus",2002,17.5
+Greece,"Malignant neoplasms of colon, rectum and anus",2008,13.3
+Greece,"Malignant neoplasms of colon, rectum and anus",2012,13.5
+Switzerland,"Malignant neoplasms of trachea, bronchus, lung",2002,29.2
+Switzerland,"Malignant neoplasms of trachea, bronchus, lung",2008,26.7
+Switzerland,"Malignant neoplasms of trachea, bronchus, lung",2012,27.3
+New Zealand,"Malignant neoplasms of colon, rectum and anus",2002,47.6
+New Zealand,"Malignant neoplasms of colon, rectum and anus",2008,40.5
+New Zealand,"Malignant neoplasms of colon, rectum and anus",2012,37.3
+Poland,Malignant neoplasms of female breast,2002,50.3
+Poland,Malignant neoplasms of female breast,2008,48.9
+Poland,Malignant neoplasms of female breast,2012,51.9
+Italy,Malignant neoplasms of female breast,2002,74.4
+Italy,Malignant neoplasms of female breast,2008,86.3
+Italy,Malignant neoplasms of female breast,2012,91.3
+Hungary,Malignant neoplasms of cervix uteri,2002,15.7
+Hungary,Malignant neoplasms of cervix uteri,2008,16.6
+Hungary,Malignant neoplasms of cervix uteri,2012,18.0
+Hungary,Malignant neoplasms of prostate,2002,34.0
+Hungary,Malignant neoplasms of prostate,2008,32.9
+Hungary,Malignant neoplasms of prostate,2012,37.5
+Türkiye,Malignant neoplasms of prostate,2002,8.0
+Türkiye,Malignant neoplasms of prostate,2008,14.8
+Türkiye,Malignant neoplasms of prostate,2012,40.6
+Iceland,Malignant neoplasms of cervix uteri,2002,8.3
+Iceland,Malignant neoplasms of cervix uteri,2008,6.3
+Iceland,Malignant neoplasms of cervix uteri,2012,7.9
+Denmark,Malignant neoplasms of cervix uteri,2002,12.6
+Denmark,Malignant neoplasms of cervix uteri,2008,11.0
+Denmark,Malignant neoplasms of cervix uteri,2012,10.6
+Austria,Malignant neoplasms of female breast,2002,70.5
+Austria,Malignant neoplasms of female breast,2008,69.9
+Austria,Malignant neoplasms of female breast,2012,68.0
+Finland,Malignant neoplasms of cervix uteri,2002,4.3
+Finland,Malignant neoplasms of cervix uteri,2008,3.7
+Finland,Malignant neoplasms of cervix uteri,2012,4.3
+United Kingdom,"Malignant neoplasms of trachea, bronchus, lung",2002,36.5
+United Kingdom,"Malignant neoplasms of trachea, bronchus, lung",2008,31.8
+United Kingdom,"Malignant neoplasms of trachea, bronchus, lung",2012,30.0
+Ireland,"Malignant neoplasms of trachea, bronchus, lung",2002,29.8
+Ireland,"Malignant neoplasms of trachea, bronchus, lung",2008,30.6
+Ireland,"Malignant neoplasms of trachea, bronchus, lung",2012,31.3
+Mexico,Malignant neoplasms of cervix uteri,2002,29.5
+Mexico,Malignant neoplasms of cervix uteri,2008,19.2
+Mexico,Malignant neoplasms of cervix uteri,2012,23.3
+Mexico,Malignant neoplasms of prostate,2002,29.9
+Mexico,Malignant neoplasms of prostate,2008,33.4
+Mexico,Malignant neoplasms of prostate,2012,27.3
+Ireland,Malignant neoplasms of female breast,2002,74.9
+Ireland,Malignant neoplasms of female breast,2008,93.9
+Ireland,Malignant neoplasms of female breast,2012,92.3
+Iceland,Malignant neoplasms of prostate,2002,81.0
+Iceland,Malignant neoplasms of prostate,2008,102.2
+Iceland,Malignant neoplasms of prostate,2012,106.6
+Finland,Malignant neoplasms of female breast,2002,84.7
+Finland,Malignant neoplasms of female breast,2008,86.6
+Finland,Malignant neoplasms of female breast,2012,89.4
+Korea,Malignant neoplasms of female breast,2002,20.4
+Korea,Malignant neoplasms of female breast,2008,38.9
+Korea,Malignant neoplasms of female breast,2012,52.1
+Switzerland,Malignant neoplasms of female breast,2002,81.7
+Switzerland,Malignant neoplasms of female breast,2008,89.4
+Switzerland,Malignant neoplasms of female breast,2012,83.1
+Denmark,Malignant neoplasms of prostate,2002,39.3
+Denmark,Malignant neoplasms of prostate,2008,72.5
+Denmark,Malignant neoplasms of prostate,2012,91.3
+Finland,Malignant neoplasms of prostate,2002,84.4
+Finland,Malignant neoplasms of prostate,2008,96.6
+Finland,Malignant neoplasms of prostate,2012,96.6
+Switzerland,Malignant neoplasms of cervix uteri,2002,8.3
+Switzerland,Malignant neoplasms of cervix uteri,2008,4.0
+Switzerland,Malignant neoplasms of cervix uteri,2012,3.6
+Austria,Malignant neoplasms of prostate,2002,71.4
+Austria,Malignant neoplasms of prostate,2008,83.1
+Austria,Malignant neoplasms of prostate,2012,74.7
+Austria,Malignant neoplasms of cervix uteri,2002,10.9
+Austria,Malignant neoplasms of cervix uteri,2008,7.8
+Austria,Malignant neoplasms of cervix uteri,2012,5.8
+Austria,"Malignant neoplasms of colon, rectum and anus",2002,35.0
+Austria,"Malignant neoplasms of colon, rectum and anus",2008,28.6
+Austria,"Malignant neoplasms of colon, rectum and anus",2012,26.0
+Luxembourg,"Malignant neoplasms of trachea, bronchus, lung",2002,37.5
+Luxembourg,"Malignant neoplasms of trachea, bronchus, lung",2008,30.9
+Luxembourg,"Malignant neoplasms of trachea, bronchus, lung",2012,28.4
+Portugal,Malignant neoplasms of female breast,2002,55.5
+Portugal,Malignant neoplasms of female breast,2008,60.0
+Portugal,Malignant neoplasms of female breast,2012,67.6
+Switzerland,Malignant neoplasms of prostate,2002,77.3
+Switzerland,Malignant neoplasms of prostate,2008,91.3
+Switzerland,Malignant neoplasms of prostate,2012,107.2
+Iceland,"Malignant neoplasms of colon, rectum and anus",2002,30.5
+Iceland,"Malignant neoplasms of colon, rectum and anus",2008,30.4
+Iceland,"Malignant neoplasms of colon, rectum and anus",2012,28.4
+Denmark,"Malignant neoplasms of colon, rectum and anus",2002,37.0
+Denmark,"Malignant neoplasms of colon, rectum and anus",2008,39.7
+Denmark,"Malignant neoplasms of colon, rectum and anus",2012,40.5
+Spain,"Malignant neoplasms of trachea, bronchus, lung",2002,30.6
+Spain,"Malignant neoplasms of trachea, bronchus, lung",2008,28.8
+Spain,"Malignant neoplasms of trachea, bronchus, lung",2012,30.3
+Slovak Republic,"Malignant neoplasms of trachea, bronchus, lung",2002,38.5
+Slovak Republic,"Malignant neoplasms of trachea, bronchus, lung",2008,26.7
+Slovak Republic,"Malignant neoplasms of trachea, bronchus, lung",2012,28.3
+United Kingdom,Malignant neoplasms of female breast,2002,87.2
+United Kingdom,Malignant neoplasms of female breast,2008,87.9
+United Kingdom,Malignant neoplasms of female breast,2012,95.0
+Australia,Malignant neoplasms of cervix uteri,2002,6.9
+Australia,Malignant neoplasms of cervix uteri,2008,4.9
+Australia,Malignant neoplasms of cervix uteri,2012,5.5
+Spain,"Malignant neoplasms of colon, rectum and anus",2002,29.7
+Spain,"Malignant neoplasms of colon, rectum and anus",2008,30.4
+Spain,"Malignant neoplasms of colon, rectum and anus",2012,33.1
+Australia,"Malignant neoplasms of colon, rectum and anus",2002,41.7
+Australia,"Malignant neoplasms of colon, rectum and anus",2008,38.7
+Australia,"Malignant neoplasms of colon, rectum and anus",2012,38.4
+Norway,Malignant neoplasms of female breast,2002,74.8
+Norway,Malignant neoplasms of female breast,2008,76.2
+Norway,Malignant neoplasms of female breast,2012,73.1
+Czechia,"Malignant neoplasms of colon, rectum and anus",2002,45.3
+Czechia,"Malignant neoplasms of colon, rectum and anus",2008,43.0
+Czechia,"Malignant neoplasms of colon, rectum and anus",2012,38.9
+Iceland,"Malignant neoplasms of trachea, bronchus, lung",2002,30.0
+Iceland,"Malignant neoplasms of trachea, bronchus, lung",2008,28.2
+Iceland,"Malignant neoplasms of trachea, bronchus, lung",2012,29.8
+Japan,Malignant neoplasms of female breast,2002,32.7
+Japan,Malignant neoplasms of female breast,2008,42.7
+Japan,Malignant neoplasms of female breast,2012,51.5
+Canada,Malignant neoplasms of female breast,2002,84.3
+Canada,Malignant neoplasms of female breast,2008,83.2
+Canada,Malignant neoplasms of female breast,2012,79.8
+Hungary,"Malignant neoplasms of trachea, bronchus, lung",2002,59.8
+Hungary,"Malignant neoplasms of trachea, bronchus, lung",2008,49.8
+Hungary,"Malignant neoplasms of trachea, bronchus, lung",2012,51.6
+Sweden,Malignant neoplasms of prostate,2002,90.9
+Sweden,Malignant neoplasms of prostate,2008,114.2
+Sweden,Malignant neoplasms of prostate,2012,119.0
+Mexico,"Malignant neoplasms of colon, rectum and anus",2002,7.5
+Mexico,"Malignant neoplasms of colon, rectum and anus",2008,6.5
+Mexico,"Malignant neoplasms of colon, rectum and anus",2012,7.8
+Czechia,"Malignant neoplasms of trachea, bronchus, lung",2002,39.7
+Czechia,"Malignant neoplasms of trachea, bronchus, lung",2008,32.1
+Czechia,"Malignant neoplasms of trachea, bronchus, lung",2012,32.5
+France,Malignant neoplasms of female breast,2002,91.9
+France,Malignant neoplasms of female breast,2008,99.7
+France,Malignant neoplasms of female breast,2012,89.7
+Netherlands,Malignant neoplasms of cervix uteri,2002,7.3
+Netherlands,Malignant neoplasms of cervix uteri,2008,5.4
+Netherlands,Malignant neoplasms of cervix uteri,2012,6.8
+Spain,Malignant neoplasms of cervix uteri,2002,7.6
+Spain,Malignant neoplasms of cervix uteri,2008,6.3
+Spain,Malignant neoplasms of cervix uteri,2012,7.8
+Australia,Malignant neoplasms of prostate,2002,76.0
+Australia,Malignant neoplasms of prostate,2008,105.0
+Australia,Malignant neoplasms of prostate,2012,115.2
+Sweden,"Malignant neoplasms of colon, rectum and anus",2002,29.8
+Sweden,"Malignant neoplasms of colon, rectum and anus",2008,28.5
+Sweden,"Malignant neoplasms of colon, rectum and anus",2012,29.2
+Netherlands,Malignant neoplasms of prostate,2002,56.7
+Netherlands,Malignant neoplasms of prostate,2008,73.4
+Netherlands,Malignant neoplasms of prostate,2012,83.4
+Sweden,Malignant neoplasms of cervix uteri,2002,8.2
+Sweden,Malignant neoplasms of cervix uteri,2008,7.4
+Sweden,Malignant neoplasms of cervix uteri,2012,7.4
+New Zealand,"Malignant neoplasms of trachea, bronchus, lung",2002,28.9
+New Zealand,"Malignant neoplasms of trachea, bronchus, lung",2008,26.1
+New Zealand,"Malignant neoplasms of trachea, bronchus, lung",2012,25.9
+Netherlands,"Malignant neoplasms of colon, rectum and anus",2002,35.9
+Netherlands,"Malignant neoplasms of colon, rectum and anus",2008,36.6
+Netherlands,"Malignant neoplasms of colon, rectum and anus",2012,40.2
